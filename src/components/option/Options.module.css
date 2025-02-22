@@ -1,0 +1,31 @@
+.optionMain {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.btnGood {
+  background-color: cornflowerblue;
+  padding: 5px;
+  font-size: 20px;
+  width: 100px;
+  cursor: pointer;
+}
+.btnNeutral {
+  background-color: rgb(100, 237, 157);
+  font-size: 20px;
+  width: 100px;
+  cursor: pointer;
+}
+.btnBad {
+  background-color: rgb(240, 13, 13);
+  font-size: 20px;
+  width: 100px;
+  cursor: pointer;
+}
+.btnReset {
+  background-color: rgb(182, 240, 7);
+  font-size: 20px;
+  width: 100px;
+  cursor: pointer;
+}

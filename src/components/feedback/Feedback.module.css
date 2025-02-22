@@ -1,0 +1,13 @@
+.feedbackMain {
+  text-align: center;
+  font-size: 25px;
+}
+.good {
+  color: cornflowerblue;
+}
+.neutral {
+  color: rgb(100, 237, 157);
+}
+.bad {
+  color: rgb(240, 13, 13);
+}
